@@ -1,0 +1,371 @@
+[
+  {
+    "index": "1",
+    "routes": [
+      "IvanoFrankivsk",
+      "Striy",
+      "Hodoriv",
+      "Ternopil",
+      "Hmelnitskiy",
+      "Jmerinka",
+      "Slobidka",
+      "Pomichna",
+      "Kirovograd",
+      "KriviyRig",
+      "Zaporizzya",
+      "Dnipro",
+      "Konstantinivka"
+    ]
+  },
+  {
+    "index": "2",
+    "routes": [
+      "IvanoFrankivsk",
+      "Striy",
+      "Hodoriv",
+      "Ternopil",
+      "Hmelnitskiy",
+      "Jmerinka",
+      "Slobidka",
+      "Pomichna",
+      "Kirovograd",
+      "KriviyRig",
+      "Zaporizzya",
+      "Dnipro",
+      "Konstantinivka"
+    ]
+  },
+  {
+    "index": "12",
+    "routes": [
+      "Lviv",
+      "Krasne",
+      "Ternopil",
+      "Hmelnitskiy",
+      "Jmerinka",
+      "Slobidka",
+      "Rozdilna",
+      "Odessa"
+    ]
+  },
+  {
+    "index": "13",
+    "routes": [
+      "Odessa",
+      "Rozdilna",
+      "Slobidka",
+      "Jmerinka",
+      "Hmelnitskiy",
+      "Ternopil",
+      "Krasne",
+      "Lviv"
+    ]
+  },
+  {
+    "index": "17",
+    "routes": [
+      "Uzgorod",
+      "Sambir",
+      "Lviv",
+      "Krasne",
+      "Ternopil",
+      "Shepetivka",
+      "Novograd-Volinskiy",
+      "Jitmir",
+      "Fastiv",
+      "Kyiv",
+      "Hrebinka",
+      "Romodan",
+      "Poltava",
+      "Harkiv"
+    ]
+  },
+  {
+    "index": "18",
+    "routes": [
+      "Harkiv",
+      "Poltava",
+      "Romodan",
+      "Hrebinka",
+      "Kyiv",
+      "Fastiv",
+      "Jitmir",
+      "Novograd-Volinskiy",
+      "Shepetivka",
+      "Ternopil",
+      "Krasne",
+      "Lviv",
+      "Sambir",
+      "Uzgorod"
+    ]
+  },
+  {
+    "index": "42",
+    "routes": [
+      "Truskavets",
+      "Lviv",
+      "Krasne",
+      "Ternopil",
+      "Shepetivka",
+      "Novograd-Volinskiy",
+      "Jitmir",
+      "Fastiv",
+      "Kyiv",
+      "Hrebinka",
+      "Romodan",
+      "Poltava",
+      "Krasnograd",
+      "Dnipro"
+    ]
+  },
+  {
+    "index": "43",
+    "routes": [
+      "Dnipro",
+      "Krasnograd",
+      "Poltava",
+      "Hrebinka",
+      "Romodan",
+      "Kyiv",
+      "Fastiv",
+      "Jitmir",
+      "Novograd-Volinskiy",
+      "Shepetivka",
+      "Ternopil",
+      "Krasne",
+      "Lviv",
+      "Truskavets"
+    ]
+  },
+  {
+    "index": "97",
+    "routes": [
+      "Kyiv",
+      "Korosten",
+      "Sarni",
+      "Kovel"
+    ]
+  },
+  {
+    "index": "110",
+    "routes": [
+      "Lviv",
+      "Krasne",
+      "Ternopil",
+      "Hmelnitskiy",
+      "Jmerinka",
+      "Slobidka",
+      "Pomichne",
+      "Kolosivka",
+      "Mikolayiv"
+    ]
+  },
+  {
+    "index": "111",
+    "routes": [
+      "Mikolayiv",
+      "Kolosivka",
+      "Pomichne",
+      "Slobidka",
+      "Jmerinka",
+      "Hmelnitskiy",
+      "Ternopil",
+      "Krasne",
+      "Lviv"
+    ]
+  },
+  {
+    "index": "120",
+    "routes": [
+      "Lviv",
+      "Krasne",
+      "Ternopil",
+      "Shepetivka",
+      "Novograd-Volinskiy",
+      "Jitmir",
+      "Fastiv",
+      "Kyiv",
+      "Hrebinka",
+      "Romodan",
+      "Poltava",
+      "Krasnograd",
+      "Dnipro",
+      "Zaporizhzia"
+    ]
+  },
+  {
+    "index": "121",
+    "routes": [
+      "Zaporizhzia",
+      "Dnipro",
+      "Krasnograd",
+      "Poltava",
+      "Hrebinka",
+      "Romodan",
+      "Kyiv",
+      "Fastiv",
+      "Jitmir",
+      "Novograd-Volinskiy",
+      "Shepetivka",
+      "Ternopil",
+      "Krasne",
+      "Lviv"
+    ]
+  },
+  {
+    "index": "136",
+    "routes": [
+      "Chernivtsi",
+      "Kolomiya",
+      "Ivano-Frankivsk",
+      "Hodoriv",
+      "Ternopil",
+      "Hmelnitskiy",
+      "Jmerinka",
+      "Slobidka",
+      "Rozdilna",
+      "Odessa"
+    ]
+  },
+  {
+    "index": "137",
+    "routes": [
+      "Odessa",
+      "Rozdilna",
+      "Slobidka",
+      "Jmerinka",
+      "Hmelnitskiy",
+      "Ternopil",
+      "Hodoriv",
+      "Ivano-Frankivsk",
+      "Kolomiya",
+      "Chernivtsi"
+    ]
+  },
+  {
+    "index": "142",
+    "routes": [
+      "Lviv",
+      "Rava-Ruska",
+      "Chervonograd",
+      "Volodimir-Volinskiy",
+      "Kovel"
+    ]
+  },
+  {
+    "index": "143",
+    "routes": [
+      "Kovel",
+      "Volodimir-Volinskiy",
+      "Chervonograd",
+      "Rava-Ruska",
+      "Lviv"
+    ]
+  },
+  {
+    "index": "606",
+    "routes": [
+      "Lviv",
+      "Striy",
+      "Ivano-Frankivsk",
+      "Dilyatin",
+      "Rahiv"
+    ]
+  },
+  {
+    "index": "607",
+    "routes": [
+      "Rahiv",
+      "Dilyatin",
+      "Ivano-Frankivsk",
+      "Striy",
+      "Lviv"
+    ]
+  },
+  {
+    "index": "726",
+    "routes": [
+      "Kyiv",
+      "Nigin",
+      "Konotop",
+      "Vorozba",
+      "Sumi",
+      "Trostyanets",
+      "Kharkiv"
+    ]
+  },
+  {
+    "index": "743",
+    "routes": [
+      "Kyiv",
+      "Fastiv",
+      "Jitomir",
+      "Novograd-Volinskiy",
+      "Shepetivka",
+      "Ternopil",
+      "Krasne",
+      "Lviv"
+    ]
+  },
+  {
+    "index": "744",
+    "routes": [
+      "Lviv",
+      "Krasne",
+      "Ternopil",
+      "Shepetivka",
+      "Novograd-Volinskiy",
+      "Jitomir",
+      "Fastiv",
+      "Kyiv"
+    ]
+  },
+  {
+    "index": "775",
+    "routes": [
+      "Kharkiv",
+      "Trostyanets",
+      "Sumi",
+      "Vorozba",
+      "Konotop",
+      "Nigin",
+      "Kyiv"
+    ]
+  },
+  {
+    "index": "780",
+    "routes": [
+      "Kyiv",
+      "Nigin",
+      "Konotop",
+      "Vorozba",
+      "Sumi"
+    ]
+  },
+  {
+    "index": "781",
+    "routes": [
+      "Sumi",
+      "Vorozba",
+      "Konotop",
+      "Nigin",
+      "Kyiv"
+    ]
+  },
+  {
+    "index": "806",
+    "routes": [
+      "Lviv",
+      "Krasne",
+      "Rivne"
+    ]
+  },
+  {
+    "index": "807",
+    "routes": [
+      "Rivne",
+      "Krasne",
+      "Lviv"
+    ]
+  }
+]
